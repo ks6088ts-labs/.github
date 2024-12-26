@@ -1,38 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: Bug Report
+about: Create a bug report
+title: Bug Report
+labels: bug
+assignees: ks6088ts
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- IF SUFFICIENT INFORMATION IS NOT PROVIDED VIA THE FOLLOWING TEMPLATE THE ISSUE MIGHT BE CLOSED WITHOUT FURTHER CONSIDERATION OR INVESTIGATION -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## System Information
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+- OS and Version:
+- Software Version:
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Expected Behavior
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+<!-- Tell us what should happen -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Current Behavior
 
-**Additional context**
-Add any other context about the problem here.
+<!-- Tell us what happens instead of the expected behavior -->
+
+## Steps to Reproduce
+
+<!-- Provide a link to a live example, or an specific set of steps to -->
+
+1.
+1.
+1.
+
+## Logs
+
+<!-- Provide logs if possible -->
+
+## Additional Information
+
+<!-- Any additional information that might be useful -->
