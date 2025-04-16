@@ -42,8 +42,11 @@ What kind of change does this Pull Request introduce?
 - Get the code
 
 ```
-git clone git@github.com:ks6088ts-labs/workshop-azure-openai.git
-cd workshop-azure-openai
+ORGANIZATION=<organization-name>
+REPOSITORY=<repository-name>
+
+git clone git@github.com:$ORGANIZATION/$REPOSITORY.git
+cd $REPOSITORY
 ```
 
 - Test the code
